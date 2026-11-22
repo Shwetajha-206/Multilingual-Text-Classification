@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+BoW + Naive Bayes,0.7468,0.7684,0.7468,0.747
+TF-IDF + Logistic Regression,0.8235,0.826,0.8235,0.8245
+TF-IDF + Linear SVM,0.8328,0.8337,0.8328,0.8332
